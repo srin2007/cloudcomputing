@@ -1,0 +1,207 @@
+   96  cd home
+   97  cd administratory
+   98  cd Desktop
+   99  cd cloud
+  100  ls
+  101  cd skacas
+  102  cd administrator
+  103  \cd Desktop
+  104  cd cloud
+  105  mkdir cloud
+  106  touch file1.txt
+  107  cd cloud
+  108  touch file1.txt
+  109  cat  >file1.txt
+  110  clear
+  111  cat /etc/passwd
+  112  ls -l
+  113  clear
+  114  ls
+  115  cd ..
+  116  cd..
+  117  clear
+  118  ls
+  119  cd Desktop
+  120  cd /
+  121  cd Desktop
+  122  clear
+  123  cd /
+  124  cd
+  125  ls
+  126  cd Destop
+  127  clear
+  128  cd /
+  129  sudo useradd srini
+  130  sudo su srini
+  131  sudo passwd srini
+  132  su srini
+  133  chmod 777 file1.txt
+  134  touch file.txt
+  135  ls
+  136  cd home
+  137  ls
+  138  cd administrator
+  139  ls
+  140  cd Desktop
+  141  ls
+  142  rm -r *
+  143  ls
+  144  touch file.txt
+  145  ls
+  146  cat > file.txt
+  147  ls
+  148  su srini
+  149  ll file.txt
+  150  chmod o+w file.txt
+  151  su srini
+  152  sudo userdel srini
+  153  cat /etc/passwd
+  154  touch file.txt
+  155  cat > file.txt
+  156  ll file.txt
+  157  cleAr
+  158  clear
+  159  history
+  160  clear
+  161  clear\
+  162  clear
+  163  nano vishnu.sh
+  164  ./vishnu.sh
+  165  chmod +x vishnu.sh
+  166  ./vishnu.sh
+  167  nano vishnu.sh
+  168  ./vishnu.sh
+  169  nano vishnu.sh
+  170  ./vishnu.sh
+  171  nano vishnu.sh
+  172  ./vishnu.sh
+  173  nano vishnu.sh
+  174  ./vishnu.sh
+  175  nano vishnu.sh
+  176  ./vishnu.sh
+  177  nano vishnu.sh
+  178  ./vishnu.sh
+  179  nano vishnu.sh
+  180  ./vishnu.sh
+  181  nano vishnu.sh
+  182  ./vishnu.sh
+  183  sudo apt update
+  184  sudo apt install git
+  185  git --version
+  186  cd
+  187  ls
+  188  cd Desktop
+  189  mkdir cloud
+  190  git --version
+  191  cd cloud
+  192  git init
+  193  git config --list
+  194  git config --global user.name "srinivash"
+  195  git config --list
+  196  git config --global init.defaultBranch main
+  197  git config --list
+  198  git config --global user.email "srivashs759@gmail.com"
+  199  git config --list
+  200  git config --global core.el lf
+  201  git config --list
+  202  git config --global core.eol lf
+  203  git config --list
+  204  git config --global --unset core.el
+  205  git config --list
+  206  git config --global core.autocrlf input
+  207  git config --list
+  208  git init
+  209  cds 
+  210  cd
+  211  cd Desktop
+  212  cd cloud
+  213  ls
+  214  clear
+  215  ls
+  216  clear
+  217  git clone https://github.com/srin2007/democloud.git
+  218  ls
+  219  cd dmeocloud
+  220  ls
+  221  cd democloud
+  222  touch file1.txt
+  223  ls
+  224  git add file1.txt
+  225  cat >file1.txt
+  226  -m "first commit"
+  227  git commit -m "yghg"
+  228  add file.txt
+  229  git status
+  230  add file.txt
+  231  get add file.txt
+  232  git add file.txt
+  233  ls
+  234  git add file1.txt
+  235  git status
+  236  git commit -m "commit
+  237  "
+  238  git status
+  239  git push origin main
+  240  get remote -v
+  241  git remote -v
+  242  git remote set-url origin"http://tokenid@gi
+  243  git remote set-url origin"http://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.com/srin2007/democloud"
+  244  git status
+  245  git push origin main
+  246  cd dmeocloud
+  247  git add file1.txt
+  248  cd dmeocloud
+  249  git add file1.txt
+  250  git push origin main
+  251  clear
+  252  cd /
+  253  cd desktop
+  254  clear
+  255  git clone
+  256  git clone "https://clear
+  257  clear
+  258  cd Desktop
+  259  cd..
+  260  cd ..
+  261  cd Desktop
+  262  cd /
+  263  ls
+  264  cd home
+  265  ls
+  266  cd Desktop
+  267  ls
+  268  cd Desktop
+  269  cd democloud
+  270  clear
+  271  ls
+  272  cd administrator
+  273  ls
+  274  cd Desktop
+  275  mkdir dir1
+  276  cd dir1
+  277  git init
+  278  cd demo cloud
+  279  cd democloud
+  280  git clone
+  281  git clone "https://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@github.com/srin2007/democloud.git"
+  282  cd democloud
+  283  cat >file1.txt
+  284  git commit -m "hello"
+  285  git add file1.txt
+  286  git commit -m "hello"
+  287  git push origin main
+  288  cleAr
+  289  clear
+  290  history
+  291  clear
+  292  history
+  293  clear
+  294  history
+  295  clear
+  296  cd 
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  touch history.txt
+  301  history
+
